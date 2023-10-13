@@ -1,0 +1,46 @@
+{
+  "name": "Traci McDermott",
+  "index": 7,
+  "proof": [
+    {
+      "data": "ea66759295ab571737267fb1c326f2c2688d31beffc69267e9b38f74c33ae5ab",
+      "left": false
+    },
+    {
+      "data": "8ca6039357c9d40ba3321ea3f10ab3e36ffd077c1ceb64092d6b9b3db113b674",
+      "left": true
+    },
+    {
+      "data": "539e7517e82a0709d87cc2ff8284460c99dd9a13685dfec779ad79e2ae785b28",
+      "left": true
+    },
+    {
+      "data": "7fdf010f793ba7371be3a20ac462353ef750e179c88473d914cdb23f47ccad42",
+      "left": false
+    },
+    {
+      "data": "3fef139d2eab499d6f50f122499ce3da0ed0c96f18a37a0d6e24a54474556e80",
+      "left": false
+    },
+    {
+      "data": "ce2df6e0530d3f6f4cfa554d8091078a244cae644c2375776053c8e37eefb4a1",
+      "left": false
+    },
+    {
+      "data": "cc30d78afa76ed2936a9fa7b96d81df59a0e8e1a73b175ab844e454be515637c",
+      "left": false
+    },
+    {
+      "data": "16070a51b8a9700b1a9dfd2ada671c7fea6ee9d3c56d02e494d334520c953deb",
+      "left": false
+    },
+    {
+      "data": "44a11637716a257506d13337979aabaf58fd2ac6cb36253905571b519d2bfb22",
+      "left": false
+    },
+    {
+      "data": "cf209348f7b2723e7f5937ccaef23f006515ba0a765ca96057cc689c11a8dc5c",
+      "left": false
+    }
+  ]
+}
